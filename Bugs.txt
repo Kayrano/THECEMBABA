@@ -1,2 +1,2 @@
-1 - Cembaba bounces when drop down and speeds up on the ground.
-2 - Cembaba disappears while behind the coke machine.
+1 - Cembaba bounces when drop down and speeds up on the ground.    - Fixed 28/02/2021 02:00
+2 - Cembaba disappears while behind the coke machine.              - Fixed 28/02/2021 02:00
