@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Weapons
+  - Coke
   layers:
   - Default
   - TransparentFX
@@ -13,9 +15,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - VisualGround
   - 
   - 
   - 
@@ -38,6 +40,30 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 2206886883
+    locked: 1
+  - name: Midground
+    uniqueID: 541682745
+    locked: 0
+  - name: Foreground
+    uniqueID: 37219813
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: LastGround
+    uniqueID: 3616172615
+    locked: 0
+  - name: WeaponLayer
+    uniqueID: 170215473
+    locked: 0
+  - name: WayLineback
+    uniqueID: 1897018717
+    locked: 0
+  - name: WayLinefront
+    uniqueID: 1946173587
+    locked: 0
+  - name: Player
+    uniqueID: 670001555
     locked: 0

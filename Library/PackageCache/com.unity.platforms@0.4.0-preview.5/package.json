@@ -1,0 +1,27 @@
+{
+  "name": "com.unity.platforms",
+  "displayName": "Platforms",
+  "version": "0.4.0-preview.5",
+  "unity": "2019.3",
+  "unityRelease": "0f1",
+  "description": "Provides platform and build API foundation used by other platform packages.",
+  "keywords": [
+    "platform",
+    "build"
+  ],
+  "dependencies": {
+    "com.unity.properties": "1.3.0-preview",
+    "com.unity.properties.ui": "1.3.0-preview",
+    "com.unity.scriptablebuildpipeline": "1.6.4-preview",
+    "com.unity.searcher": "4.0.9",
+    "com.unity.serialization": "1.3.0-preview"
+  },
+  "upmCi": {
+    "footprint": "3c43c5a88a04cb20d16f2f501254488a3a6e55c7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Unity-Technologies/dots-platforms.git",
+    "revision": "055788291752bc216e77ac52629a20a720e81726"
+  }
+}
